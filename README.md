@@ -1,5 +1,5 @@
 # Web Ethics Exercise
-
+Hello world!
 You will research and present an ethical issue related to the Internet and/or The Web. The group will discuss and debate this issue during the class session.
 
 ## Issue overview
