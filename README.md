@@ -11,7 +11,6 @@ The other side argues that CAPTCHA creates unfair barriers to web access. From t
 
 ### Articles
 
-* [Inaccessibility of CAPTCHA — W3C](https://www.w3.org/TR/turingtest/)
 * [I'm Not a Robot! So Why Won't Captchas Believe Me? — Wired](https://www.wired.com/story/im-not-a-robot-why-captchas-hard-to-solve/)
 * [Cloudflare Turnstile Documentation](https://developers.cloudflare.com/turnstile/)
 
